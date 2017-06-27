@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 
@@ -36,3 +37,9 @@ int main()
     
     return 0;
 }
+=======
+# Posix
+Que onda que pez
+
+Hoy vamos a jugar?
+>>>>>>> 70f7b912b27fc3e0d09a7db1e8e567261fa93839
