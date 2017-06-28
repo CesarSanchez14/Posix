@@ -1,3 +1,4 @@
+git clone https://github.com/CesarSanchez/Posix.git
 git add README.md
 git status
 git commit -m "Actualización de README.md"
